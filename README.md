@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - vivek bairwa(rajasthan)
+author - vivek bairwa(rajasthan boys)
